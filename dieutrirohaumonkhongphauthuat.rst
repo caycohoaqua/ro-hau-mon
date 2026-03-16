@@ -41,11 +41,8 @@ các bạn có thể tham khảo thêm ở dưới
     </div>
 
 .. raw:: html
-
     <div style="text-align: center; margin-bottom: 2em;">
-
         <iframe width="560" height="315" src="https://www.youtube.com/embed/ZXxsuIyh9WU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
     </div>
 
 
