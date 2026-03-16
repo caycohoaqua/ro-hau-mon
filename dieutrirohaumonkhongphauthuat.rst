@@ -40,6 +40,16 @@ các bạn có thể tham khảo thêm ở dưới
         <iframe width="560" height="315" src="https://www.youtube.com/embed/ZXxsuIyh9WU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
+.. raw:: html
+
+    <div style="text-align: center; margin-bottom: 2em;">
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/ZXxsuIyh9WU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    </div>
+
+
+
 ***************************
 3. 1. Phản hồi từ anh Phong Vân - Một người hợp thảo dược thứ 2
 ***************************
