@@ -62,8 +62,6 @@ Tôi có để ảnh chụp ở phía dưới quý khách có thể tham khảo
    :alt: "khach-hang-cuong-truong-1"
    :align: center
 
-
-
 *****************************
 5. Phản hồi từ một anh ở Hưng Yên
 *****************************
@@ -78,7 +76,7 @@ Dưới đây là ảnh chụp phản hồi của người dùng thảo dược 
 .. image:: /img/kh-rhm-hung-yen-2.png
    :alt: "phan-hoi-tu-khach-hung-yen"
    :align: center
-
+ 
 **********************
 6. Phản hồi từ một khách Quang Hoàn
 **********************
