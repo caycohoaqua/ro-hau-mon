@@ -1,18 +1,18 @@
 ====================
-MẬT KỲ ĐÀ, CON BA BA
+RÒ HẬU MÔN - ĐIỀU TRỊ RÒ HẬU MÔN KHÔNG CẦN PHẪU THUẬT
 ====================
 
 ***************************************************
-Mật kỳ đà, tác dụng, cách dùng, mua mật kỳ đà ở đâu
+Rò hậu môn, cách chữa rò hậu môn tại nhà không cần phẫu thuật
 ***************************************************
 
 
-.. _matkyda:
+.. _dieutrirohaumonkhongphauthuat:
 
 .. toctree::
    :maxdepth: 2
    :glob:
-   :caption: MẬT KỲ ĐÀ
+   :caption: ĐIỀU TRỊ RÒ HẬU MÔN KHÔNG CẦN PHẪU THUẬT
 
    mat-ky-da
 
