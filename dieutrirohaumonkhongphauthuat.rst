@@ -74,6 +74,7 @@ mới mong có kết quả tốt được, nên tôi vẫn khuyên mọi ngườ
 Chứ dùng một gói đôi khi chỉ là cảm nhận thôi chưa thể nói lên điều gì, hay chính xác hơn là mới dùng một gói mà có chuyển biếN
 rõ rệt thì là một phần may mắn.
 Dưới đây là ảnh chụp phản hồi của người dùng thảo dược mời các bạn  tham khảo.
+
 .. image:: /img/kh-rhm-hung-yen-2.png
    :alt: "phan-hoi-tu-khach-hung-yen"
    :align: center
