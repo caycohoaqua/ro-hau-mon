@@ -94,6 +94,7 @@ Dưới đây là ảnh chụp phản hồi của người dùng thảo dược 
 Anh Sơn đặt 02 gói thảo dược, sau một thời gian sử dụng thì thấy giảm cân, và vết rò không thấy còn bị ngứa
 
 Dưới đây là ảnh chụp phản hồi của người dùng thảo dược mời các bạn  tham khảo.
+
 .. image:: /img/thanh-son-3.jpg
    :alt: "phan-hoi-thanh-son"
    :align: center
@@ -105,6 +106,7 @@ Dưới đây là ảnh chụp phản hồi của người dùng thảo dược 
 Anh Hòa sau một thời gian sử dụng thì thấy có tác dụng 
 
 Dưới đây là ảnh chụp phản hồi của người dùng thảo dược mời các bạn  tham khảo.
+
 .. image:: /img/vinh-hoa-1.jpg
    :alt: "phan-hoi-vinh-hoa"
    :align: center
