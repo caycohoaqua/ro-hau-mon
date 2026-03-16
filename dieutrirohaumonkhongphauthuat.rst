@@ -83,6 +83,7 @@ Dưới đây là ảnh chụp phản hồi của người dùng thảo dược 
 Một khách hàng tên là Quang Hoàn cũng dùng 1 gói thảo dược thấy có chuyển biến nên yên tâm dùng thêm.
 
 Dưới đây là ảnh chụp phản hồi của người dùng thảo dược mời các bạn  tham khảo.
+
 .. image:: /img/quang-hoan-2.jpg
    :alt: "phan-hoi-quang-hoan"
    :align: center
