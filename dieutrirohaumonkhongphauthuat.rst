@@ -43,7 +43,7 @@ các bạn có thể tham khảo thêm ở dưới
 
     .. raw:: html
     <div style="text-align: center; margin-bottom: 2em;">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/AcK3egOcAh4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/watch?v=ZXxsuIyh9WU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
 ***************************
